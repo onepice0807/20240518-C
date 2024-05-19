@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(19,25): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(24,6): warning C4101: 'telephoneNumber2' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(8,7): warning C4101: 'name' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(37,6): warning C4101: 'telephoneNumberArray' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(22,7): warning C4101: 'name2' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(36,6): warning C4101: 'ageArray' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(9,6): warning C4101: 'age' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(35,7): warning C4101: 'nameArray' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(31,6): warning C4101: 'telephoneNumber99' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(34,6): warning C4101: 'noArray' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(10,6): warning C4101: 'telephoneNumber' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(7,6): warning C4101: 'no' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(76,17): warning C4101: 'stArray' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(30,6): warning C4101: 'age99' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(29,7): warning C4101: 'name99' :참조되지 않은 지역 변수입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1510-Operator\main.c(23,6): warning C4101: 'age2' :참조되지 않은 지역 변수입니다.
+  240518-1510-Operator.vcxproj -> C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\x64\Debug\240518-1510-Operator.exe

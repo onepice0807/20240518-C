@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1530-Operator\main.c(14,10): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  240518-1530-Operator.vcxproj -> C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\x64\Debug\240518-1530-Operator.exe

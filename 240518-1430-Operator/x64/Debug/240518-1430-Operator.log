@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1430-Operator\main.c(13,9): warning C4475: 'printf' : 길이 한정자 'I'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1430-Operator\main.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1430-Operator\main.c(14,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1430-Operator\main.c(14,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\240518-1430-Operator\main.c(14,9): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%d'에 필요합니다.
+  240518-1430-Operator.vcxproj -> C:\Users\Atents\Documents\카카오톡 받은 파일\ray240511\240518-C\240518-C\x64\Debug\240518-1430-Operator.exe
